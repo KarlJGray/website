@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "karlgray.xyz"
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "Karl Gray's personal website"
+
+[author]
+  name = "Karl Gray"
+  image = "images/Profile Photo.jpg"
+  headline = ":man_technologist: Software Engineer with a passion for all things DevOps :gear:"
+  links = [
+    { github = "https://github.com/KarlJGray" },
+    { linkedin = "https://linkedin.com/in/karl-gray-96a128172" }
+  ]
