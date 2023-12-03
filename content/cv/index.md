@@ -60,7 +60,7 @@ June 2014 — September 2018 | Dundalk, Ireland
 
 As an adaptable summer employee, I worked in several departments across the business which included working in the warehouse team forklift driving and packaging of orders. 
 
-Additionally, working in the accounting and purchasing department gave me wider experience in business  management.
+Additionally, working in the accounting and purchasing departments gave me wider experience in business  management.
 
 ---
 
@@ -116,17 +116,48 @@ Highlights of my skills can be found below:
 
 ---
 
-## Certifications
+## Certifications & Courses
 
-### CKA: Certified Kubernetes Administrator
+### Certifications
+
+#### CKA: Certified Kubernetes Administrator
 
 - Issued **10th October 2023**
-- [Credly verification](https://www.credly.com/badges/2c6ad691-246f-4f04-97fd-5d3c3c418b16/public_url)
+- [Credential](https://www.credly.com/badges/2c6ad691-246f-4f04-97fd-5d3c3c418b16/public_url)
 
-### CKAD: Certified Kubernetes Application Developer
+#### CKAD: Certified Kubernetes Application Developer
 
 - Issued **6th February 2023**
-- [Credly verification](https://www.credly.com/badges/065541ec-1d58-4638-a234-703460b9c5f5/linked_in_profile)
+- [Credential](https://www.credly.com/badges/065541ec-1d58-4638-a234-703460b9c5f5/linked_in_profile)
+
+#### Lean Manufacturing Tools
+
+- Issued **14th August 2022**
+- [Certificate](https://drive.proton.me/urls/JCSJY8C0X0#34eFur3jHb7U)
+
+### Courses
+
+#### Certified Kubernetes Administrator (CKA) with Practice Tests
+
+- Issued **7th October 2023**
+- [Udemy Certificate](https://ude.my/UC-ea5d5c9a-42ca-48cb-9e8e-cf379f1e40f7)
+- [KodeKloud Certificate](https://kodekloud.com/certificate-verification/860753438A-8607BF0002-85FBC2E8BC/)
+
+#### Kubernetes Certified Application Developer (CKAD) with Tests
+
+- Issued **1st January 2023**
+- [Udemy Certificate](https://ude.my/UC-35d8987a-9987-4db2-b027-3fbb33e45684)
+- [KodeKloud Certificate](https://kodekloud.com/certificate-verification/860753438A-8607CD7D63-85FBC2E8BC/)
+
+#### GIT: Advanced commands
+
+- Issued **28th August 2022**
+- [Udemy Certificate](https://www.udemy.com/certificate/UC-f88f6fcb-c01a-482d-a65d-f8e6083f4552)
+
+#### Docker and Kubernetes: The Complete Guide
+
+- Issued **27th February 2022**
+- [Udemy Certificate](https://www.udemy.com/certificate/UC-10842293-b0bc-49b8-890c-2458d77d4fdb)
 
 ---
 
