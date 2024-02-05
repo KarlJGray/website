@@ -75,7 +75,7 @@ September 2017 — July 2021 | Belfast, UK
   - iLive Society
   - QUB Mountaineering Club
 - My final year project investigated the use of a convolutional neural network (CNN) to detect distributed denial-of-service (DDoS) attacks in a software-defined network (SDN).
-- Degree Plus earned through siLive Society.
+- Degree Plus earned through iLive Society.
 
 #### Student at [Abbey Christian Brothers' Grammar School](https://www.abbeycbs.org/)
 
@@ -167,14 +167,17 @@ Highlights of my skills can be found below:
 
 Leveraging 5x Raspberry Pi 4 Model B's to create a self-hosted Kubernetes cluster for running applications for my own use and learning.
 
-From the earlier stages of this project, I currently have a number of services running on a single Raspberry Pi through the use of Docker Compose and 1Password (for secret management). 
+I'm currently in the process of setting up a Kubernetes cluster on the Raspberry Pi's through the use of Ansible and Kubeadm. I am aiming to set up this website and run it on the cluster along with the services mentioned above.
+
+### Raspberry Pi Services
+
+I currently have a number of services running on a single Raspberry Pi through the use of Docker Compose and 1Password (for secret management).
+
 Services running include:
 - Traefik (reverse proxy for services and assigns TLS certificates for services through the use of Let's Encrypt and ACME protocol)
 - Homepage (dashboard for services)
 - Pi-hole
 - Homebridge
-
-Currently in the process of setting up a Kubernetes cluster on the Raspberry Pi's through the use of Ansible and Kubeadm. I am aiming to set up this website and run it on the cluster along with the services mentioned above.
 
 ---
 
