@@ -102,7 +102,7 @@ Highlights of my skills can be found below:
 - DevOps
 - Containerisation
 - Linux
-- Continuous Integration and Continuous Delivery (CD/CD)
+- Continuous Integration and Continuous Delivery (CI/CD)
 - C#
 - Git
 - Documentation
